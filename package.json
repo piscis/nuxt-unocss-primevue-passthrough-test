@@ -3,6 +3,7 @@
   "type": "module",
   "packageManager": "pnpm@8.9.0",
   "stackblitz": {
+    "installDependencies": false,
     "startCommand": "pnpm i && pnpm dev"
   },
   "scripts": {
