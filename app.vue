@@ -1,5 +1,8 @@
+<script setup lang="ts">
+import Button from "primevue/button";
+</script>
 <template>
   <div>
-    <NuxtWelcome />
+    <Button>Increment</Button>
   </div>
 </template>
